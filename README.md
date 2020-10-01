@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ¡Hola!
 Mi nombre es Ariel, y soy estoy finalizando un BootCamp de Desarrollo Web Fullstack.
 
-Tengo 19 años y me egrese de un colegio técnico, comence una carrera de Ciencias de la Computación y mientras cursaba decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
+Me egrese de un colegio técnico, comence una carrera de Ciencias de la Computación y mientras cursaba decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
 
 Actualmente me encuento en la ultíma etapa del BootCamp donde estamos creando una aplicación de cero que es básicamente un aula virtual y además soy Assistant Teacher en el mismo BootCamp [HENRY](https://www.soyhenry.com/).
 
